@@ -1,0 +1,102 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Desarrollo Web FontEnd",
+    "section": "",
+    "text": "Bienvenida\n¡Bienvenido al Curso de Desarrollo Web, diseñado para los estudiantes de tercero de bachillerato de la U.E.P. “Carlos Crespi II, cursantes de la materia de Desarrollo Web, especialidad Informática.\nEn este curso, exploraremos todo, desde los fundamentos, revisando las herramientas de última tecnología, hasta las aplicaciones prácticas.",
+    "crumbs": [
+      "Bienvenida"
+    ]
+  },
+  {
+    "objectID": "index.html#de-qué-trata-este-curso",
+    "href": "index.html#de-qué-trata-este-curso",
+    "title": "Desarrollo Web FontEnd",
+    "section": "¿De qué trata este curso?",
+    "text": "¿De qué trata este curso?\nDurante este periodo lectivo, cursaremos fundamentos teóricos básicos de la programación hasta la construcción de sitios web completos utilizando los lenguajes de programación HTML, CSS y JavaScript.\nA través de una combinación de teoría y ejercicios prácticos, nos sumergiremos en los conceptos esenciales del desarrollo web y avanzaremos hacia la creación de proyectos del mundo real, con clientes reales, mismos que aportaran con su retroalimentación, con lo que cada proyecto se convertirá en una experiencia única.\nJuntos recorreremos desde la configuración del entorno de desarrollo hasta la construcción de un sitio web de pila completa, el conocimiento que el estudiante adquirirá le proporcionará una comprensión sólida y experiencia para implementarla en proyectos en el mundo laboral real.",
+    "crumbs": [
+      "Bienvenida"
+    ]
+  },
+  {
+    "objectID": "index.html#para-quién-es-este-curso",
+    "href": "index.html#para-quién-es-este-curso",
+    "title": "Desarrollo Web FontEnd",
+    "section": "¿Para quién es este curso?",
+    "text": "¿Para quién es este curso?\nEste curso está diseñado para estudiantes de la U.E.P. “Carlos Crespi II” principiantes en el mundo del desarrollo web, pero expertos en el diseño de sus entornos y para aquellos con poca o ninguna experiencia en programación.\nYa sea un estudiante curioso, un profesional que busca cambiar de carrera o simplemente alguien que quiere aprender desarrollo web, este documento es para usted. Desde adolescentes hasta adultos, todos son bienvenidos a participar y explorar el emocionante mundo del desarrollo web.",
+    "crumbs": [
+      "Bienvenida"
+    ]
+  },
+  {
+    "objectID": "index.html#cómo-contribuir",
+    "href": "index.html#cómo-contribuir",
+    "title": "Desarrollo Web FontEnd",
+    "section": "¿Cómo contribuir?",
+    "text": "¿Cómo contribuir?\nValoramos su contribución a este curso. Si encuentra algún error, desea sugerir mejoras o agregar contenido adicional, me encantaría saber de usted.\nPuede contribuir a través del repositorio en línea, donde puede compartir sus comentarios y sugerencias.\nJuntos, podemos mejorar continuamente este recurso educativo para beneficiar a la comunidad de estudiantes y entusiastas de la programación.\nEste ebook ha sido creado con el objetivo de proporcionar acceso gratuito y universal al conocimiento.\nEstará disponible en línea para cualquier persona, sin importar su ubicación o circunstancias, para acceder y aprender a su propio ritmo.\nPuede descargarlo en formato PDF, Epub o verlo en línea en cualquier momento y lugar.\nEsperamos que disfrute este emocionante viaje de aprendizaje y descubrimiento en el mundo del desarrollo web.",
+    "crumbs": [
+      "Bienvenida"
+    ]
+  },
+  {
+    "objectID": "index.html#contribución-estudiantil",
+    "href": "index.html#contribución-estudiantil",
+    "title": "Desarrollo Web FontEnd",
+    "section": "Contribución estudiantil",
+    "text": "Contribución estudiantil\nValoro mucho la dedicación que cada uno asigna a su formación profesional, y ante todas las cosas fomento la lectura, conocedor de la ajetreada vid estudiantil que los cursantes de tercero de bachillerato experimentan en este periodo lectivo, es por esta razón que; si en algún momento, uno de mis estudiantes genera contenido de valor y aporta a este documento, su esfuerzo será reconocido académicamente:\n\n\n\n\n\n\n\n\nAporte\nRecompensa\nInsumo\n\n\n\n\nAporte de corrección ortográfica\n0.25\nInsumo 1\n\n\nAporte de corrección de arquitectura\n1\nInsumo 1\n\n\nAporte con un texto para el documento\n1\nProyecto Quimestral\n\n\n\nEntonces, a partir de este momento, si un estudiante quisiera ganar puntos adicionales en el trimestre, o quizas, con mucho esfuezo, ni siquiera presentar el proyecto final de cada trimestre, lo único que debe hacer es seguir los pasos antriores e informar en clases o realizando un pull.",
+    "crumbs": [
+      "Bienvenida"
+    ]
+  },
+  {
+    "objectID": "1_Capitulo.html",
+    "href": "1_Capitulo.html",
+    "title": "1  Desarrolladores Web",
+    "section": "",
+    "text": "1.1 Desarrollador Web\nUn desarrollador web es un profesional especializado en la creación, diseño y mantenimiento de sitios web y aplicaciones web. Su trabajo abarca desde el diseño de la interfaz de usuario, para mejorar la experiencia del cliente hasta la implementación de funcionalidades complejas en el servidor. Los desarrolladores web utilizan una variedad de lenguajes de programación y herramientas multimedia para construir sitios web que sean funcionales, atractivos y fáciles de usar.\nAl leer este concepto, es posible que, muchos quienes ya han experimentado con la programación se sientan abrumados, pues el diagrama de flujo de los proyectos grandes ya realizados, se presentase ante sus ojos, como esas musas inspiradoras de temor, pues para realizar estos proyectos es imprescindible conocer tantas tecnologías, como palabras en este texto, es por esta razón que los desarrolladores han decidido especializarse en alguna de las ramas y aquí las describiré a todas, de una manera muy superficial.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Desarrolladores Web</span>"
+    ]
+  },
+  {
+    "objectID": "1_Capitulo.html#desarrollador-web",
+    "href": "1_Capitulo.html#desarrollador-web",
+    "title": "1  Desarrolladores Web",
+    "section": "",
+    "text": "1.1.1 Desarrollador WEB UX/UI\nUn desarrollador UX/UI (User Experience/User Interface) se enfoca en la experiencia del usuario y el diseño de la interfaz. Su objetivo es crear interfaces que sean intuitivas y agradables para los usuarios. Las responsabilidades de un desarrollador UX/UI incluyen:\n\nInvestigación de usuarios: Entender las necesidades y comportamientos de los usuarios a través de entrevistas, encuestas y pruebas de usabilidad.\nDiseño de la interfaz: Crear wireframes, prototipos y diseños visuales que definan la estructura y apariencia del sitio web o aplicación.\nPruebas de usabilidad: Evaluar la efectividad del diseño mediante pruebas con usuarios reales y ajustar el diseño según los resultados.\n\nUna manera sencilla de explicar lo que es un UX/UI es compararlo con la persona encargada de atender a los clientes, mientras mas fluido sea su vocabulario, le será mas sencillo que los clientes lo entiendan y por tanto más artículos conseguirá vender.\nEl desarrollador UX/UI, generalmente esta acostumbrado a trabajar con herramientas multimedia como; Adobe Photoshop, Adobe Ilustrator, Adobe Dreamweaver, Figma, entre otras, pues su enfoque está relacionado con el entorno artístico, y aunque en muchas ocasiones conocen de código, su predilección esta direccionada hacia el diseño propiamente.\n\n\n1.1.2 Desarrollador Frontend\nUn desarrollador frontend se encarga de la parte del sitio web que interactúa directamente con los usuarios. Utiliza tecnologías como HTML, CSS y JavaScript para construir la interfaz de usuario, desde el enfoque de la producción del sitio Web. Las responsabilidades de un desarrollador frontend incluyen:\n\n1.1.2.1 Responsabilidades:\n\nImplementación de diseños: Convertir los diseños creados por los diseñadores UX/UI en código funcional.\nOptimización de rendimiento: Asegurar que el sitio web cargue rápidamente y funcione de manera eficiente en diferentes dispositivos y navegadores.\nInteractividad: Añadir funcionalidades interactivas mediante el uso de frameworks y bibliotecas como React, Angular o Vue.js.\n\nUsando el ejemplo del vendedor, no basta con tener la persona mas especializada en atención al cliente, también es necesario que la tienda en donde trabaja el vendedor sea dinámica, proactiva, rápida pero sobre todo optimizada, para que sea fácil de encontrar, en pocas palabras es el arquitecto, a quien los diseñadores UX/UI le entregan el dibujo y el frontend lo transforma en código, lo embellece y lo optimiza para que su interacción con el usuario final sea lo más rápido posible.\nEl desarrollador FrontEnd se ha preparado para usar herramientas de programación siendo la mas usada (no la única) Visual Studio Code, como interprete de lenguajes como HTML, CSS y JavaScript.\n\n\n\n1.1.3 Desarrollador Backend\nUn desarrollador backend se encarga de la lógica del servidor, las bases de datos y la integración de sistemas. Aquí hay una descripción más detallada de sus responsabilidades y ejemplos prácticos:\n\n1.1.3.1 Responsabilidades\n\nGestión de Bases de Datos:\n\nDiseño de Bases de Datos: Crear esquemas de bases de datos que definan cómo se almacenarán y organizarán los datos. Por ejemplo, diseñar una base de datos para una tienda en línea que incluya tablas para productos, usuarios, pedidos y pagos\nConsultas y Optimización: Escribir consultas SQL para recuperar y manipular datos de manera eficiente. Optimizar estas consultas para mejorar el rendimiento.\n\nDesarrollo de APIs:\n\nCreación de Endpoints: Desarrollar endpoints que permitan a las aplicaciones frontend interactuar con el servidor. Por ejemplo, un endpoint para registrar nuevos usuarios o para procesar pagos.\nAutenticación y Autorización: Implementar sistemas de autenticación (como JWT o OAuth) para asegurar que solo los usuarios autorizados puedan acceder a ciertas funcionalidades.\n\nSeguridad:\n\nProtección de Datos: Implementar medidas de seguridad como el cifrado de datos sensibles y la protección contra ataques comunes como SQL injection y cross-site scripting (XSS).\nGestión de Sesiones: Asegurar que las sesiones de usuario sean seguras y que los datos de sesión no puedan ser interceptados o manipulados.\n\n\n\n\n1.1.3.2 Ejemplos Prácticos\n\nAplicación de Comercio Electrónico: Un desarrollador backend podría crear una API que maneje el catálogo de productos, procese los pedidos y gestione los pagos. También se encargaría de la lógica para calcular impuestos y costos de envío.\nRed Social: En una red social, el backend manejaría la creación de perfiles de usuario, la publicación de contenido, la gestión de amigos y seguidores, y la entrega de notificaciones en tiempo real.\n\n\n\n\n1.1.4 Desarrollador Full Stack\nUn desarrollador full stack tiene conocimientos tanto de frontend como de backend, lo que le permite trabajar en todas las partes de un proyecto web. Aquí hay una descripción más detallada de sus responsabilidades y ejemplos prácticos:\n\n1.1.4.1 Responsabilidades\n\nDesarrollo Completo de Aplicaciones:\n\nFrontend: Implementar la interfaz de usuario utilizando tecnologías como HTML, CSS y JavaScript. Por ejemplo, diseñar y desarrollar una página de inicio atractiva y funcional.\nBackend: Desarrollar la lógica del servidor y las bases de datos. Por ejemplo, crear una API para manejar las solicitudes de los usuarios y almacenar datos en una base de datos.\n\nIntegración de Sistemas:\n\nComunicación entre Frontend y Backend: Asegurar que el frontend y el backend se comuniquen de manera efectiva. Por ejemplo, utilizando AJAX o Fetch API para enviar y recibir datos entre el cliente y el servidor.\nServicios Externos: Integrar servicios de terceros, como pasarelas de pago, servicios de autenticación (Google, Facebook), y APIs externas.\n\nResolución de Problemas:\n\nDepuración y Pruebas: Identificar y solucionar problemas en cualquier parte del stack tecnológico. Utilizar herramientas de depuración y pruebas para asegurar que la aplicación funcione correctamente.\nOptimización de Rendimiento: Mejorar el rendimiento tanto del frontend como del backend. Por ejemplo, optimizar el tiempo de carga de la página y la eficiencia de las consultas a la base de datos.\n\n\n\n\n1.1.4.2 Ejemplos Prácticos\n\nAplicación de Gestión de Proyectos: Un desarrollador full stack podría crear una aplicación que permita a los usuarios crear y gestionar proyectos, asignar tareas, y colaborar en tiempo real. El frontend incluiría una interfaz de usuario intuitiva, mientras que el backend manejaría la lógica de negocio y el almacenamiento de datos.\nPlataforma de Educación en Línea: En una plataforma de educación en línea, el desarrollador full stack podría desarrollar funcionalidades como la inscripción de estudiantes, la gestión de cursos, la entrega de contenido multimedia, y la evaluación de los estudiantes.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Desarrolladores Web</span>"
+    ]
+  },
+  {
+    "objectID": "intro.html",
+    "href": "intro.html",
+    "title": "2  Introduction",
+    "section": "",
+    "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Introduction</span>"
+    ]
+  },
+  {
+    "objectID": "summary.html",
+    "href": "summary.html",
+    "title": "3  Summary",
+    "section": "",
+    "text": "In summary, this book has no content whatsoever.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Summary</span>"
+    ]
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References",
+    "section": "",
+    "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
+    "crumbs": [
+      "References"
+    ]
+  }
+]
